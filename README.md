@@ -1,2 +1,2 @@
 # hello-world
-New repository
+New repository with the first modification.
